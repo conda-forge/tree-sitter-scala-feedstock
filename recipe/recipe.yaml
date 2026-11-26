@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.26.13"
+  version: "0.26.14"
 
 package:
   name: tree-sitter-scala
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/tree-sitter/tree-sitter-scala/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: efe613cdc15e2734a856e5c410c4a4d21776d09b4294fa120dc68db3b887391b
+  sha256: 81897c5379fee129b2920372b26b0b880088cbaabb7b8236c9b34fb5a1c81f37
 
 build:
   number: 0
